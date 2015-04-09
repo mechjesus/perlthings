@@ -1,3 +1,5 @@
+http://onyxneon.com/books/modern_perl/
+
 #!/usr/bin/perl -w
 use strict;
 
