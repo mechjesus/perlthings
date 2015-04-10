@@ -28,7 +28,7 @@ print "\n";
 
 =~ #regex
 /.../ #standard syntax for a regular expression
-s/.../.../ #two sets of /../ replace set 1 with set 2, eg s/nigger/tiger/ see http://en.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe
+s/.../.../ #two sets of /../ replace set 1 with set 2, eg s/biger/tiger/ see http://en.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe
 
 \w #character class \w \s \d are match word, whitespace, digit
 \W #negated character class \W matches anything that's not a word character
